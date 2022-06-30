@@ -8,6 +8,7 @@ Given a string n that represents a positive decimal integer, return the minimum 
 
 Example 1:
 
+
 Input: n = "32"
 Output: 3
 Explanation: 10 + 11 + 11 = 32
